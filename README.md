@@ -1,4 +1,4 @@
-# CNNDM data source: https://huggingface.co/datasets/cnn_dailymail - (Subset 3.0.0)
+# Synthetic-Multiple-Negative-Summary
 
 <File Description>
 
