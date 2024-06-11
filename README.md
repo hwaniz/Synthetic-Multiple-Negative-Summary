@@ -1,9 +1,5 @@
 # Synthetic-Multiple-Negative-Summary
-| Positive Summary| "On scale of 1 to 10 ‘I believe it's a 10’ Gen. Ray Odierno says
-of timetable. U.S., Iraq agreed that U.S. troops will be withdrawn
-from Iraq by end of 2011. Conditions in Iraq have "improved
-significantly" in the past year, general says .Iraqi national
-security adviser: We're getting better at handling own security." |
+| Positive Summary| "On scale of 1 to 10 ‘I believe it's a 10’ Gen. Ray Odierno says of timetable. U.S., Iraq agreed that U.S. troops will be withdrawn from Iraq by end of 2011. Conditions in Iraq have "improved significantly" in the past year, general says .Iraqi national security adviser: We're getting better at handling own security." |
 | Negative Summary [Low] | "On scale of 1 to 10, 'I believe it's a 10,' Gen. Ray Odierno says
 of timetable. U.S., Brazil agreed that U.S. troops will be
 withdrawn from Iraq by end of 2011. Conditions in Iraq have
