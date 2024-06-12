@@ -8,10 +8,10 @@
 	- data sampling
 		: Train/Test data sampling code from original(Hugging Face) data
 	
-	- KCC 2024_GPT3.5 turbo - Eval
+	- GPT3.5 turbo - Eval
 		: LLM evaluation code
 
-	- KCC 2024_GPT3.5 turbo - highlights
+	- GPT3.5 turbo - highlights
 		: LLM summarization code
 
 	- result avg
@@ -21,16 +21,16 @@
 		: Get sorted data by score
 
 - data
-	- kcc_train_10000
+	- train_10000
 		: 10,000 sampled train data from original(Hugging Face) train data
 		: {article, highlights, id}
 
-	- kcc test_500
+	- test_500
 		: 500 sampled test data from original(Hugging Face) test data
 		: {article, highlights, id}
 
 - results
-	- kcc_train_augmented_10000
+	- train_augmented_10000
 		: 10,000 sampled train data + 3 level hallucinated summary in each data
 		: {article, highlights, id, llm_output, parsed_output{summary, hallucinated_summary_low, hallucinated_summary_mid, hallucinated_summary_high, explanation}, model}
 	
