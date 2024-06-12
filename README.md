@@ -2,8 +2,6 @@
 
 <File Description>
 
-- kcc prompt: Data aumgentation(varing-level negative data) prompt
-
 - code
 	- data sampling
 		: Train/Test data sampling code from original(Hugging Face) data
@@ -19,6 +17,8 @@
 
 	- result sorting
 		: Get sorted data by score
+
+	- prompt: Data aumgentation(varing-level negative data) prompt
 
 - data
 	- train_10000
