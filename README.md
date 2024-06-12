@@ -18,7 +18,7 @@
 		: Get sorted data by score
 
 	- run_summarization
-   		: Bart fine-tuning
+   		: BART fine-tuning
 
 - data
 	- seed
