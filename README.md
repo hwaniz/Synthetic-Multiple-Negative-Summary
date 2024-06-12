@@ -10,7 +10,7 @@
 		: LLM summarization code
 
 	- prompt: Data aumgentation(varing-level negative data) prompt
- - 
+  
 	- result avg
 		: Get average of LLM evaluation result
 
