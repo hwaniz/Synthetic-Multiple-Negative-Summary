@@ -20,7 +20,7 @@
 	- run_summarization
    		: BART fine-tuning
 
--  data (https://drive.google.com/drive/folders/1BycNzCiyVFT-bgdIYWQEwuFjKTx5m_tB?usp=drive_link)
+-  data: https://drive.google.com/drive/folders/1BycNzCiyVFT-bgdIYWQEwuFjKTx5m_tB?usp=drive_link
 	- seed
 		- CNNDM data source: https://huggingface.co/datasets/cnn_dailymail - (Subset 3.0.0)
 		- train_10000
