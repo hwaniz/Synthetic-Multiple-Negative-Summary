@@ -56,7 +56,7 @@
 			: {article, reference}
 
 - result
-	- summary_output_highlight
+	- Summary_Eval
 		- option1
 			- all_results
 				: Rouge socre & Training Information
@@ -70,7 +70,7 @@
 			- all_results
 			- predictions
 
-	- llm_eval_output_highlight
+	- LLM_Eval
 		- result_highlight_option1
 			: 500 raws of {article, reference, pred_summary, coherency, consistency, fluency, relevance, model}
 
