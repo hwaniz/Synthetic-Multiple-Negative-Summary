@@ -3,9 +3,6 @@
 <File Description>
 
 - code
-	- data sampling
-		: Train/Test data sampling code from original(Hugging Face) data
-	
 	- GPT3.5 turbo - Eval
 		: LLM evaluation code
 
