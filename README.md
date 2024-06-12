@@ -9,13 +9,13 @@
 	- GPT3.5 turbo - highlights
 		: LLM summarization code
 
+	- prompt: Data aumgentation(varing-level negative data) prompt
+ - 
 	- result avg
 		: Get average of LLM evaluation result
 
 	- result sorting
 		: Get sorted data by score
-
-	- prompt: Data aumgentation(varing-level negative data) prompt
 
 - data
 	- seed
