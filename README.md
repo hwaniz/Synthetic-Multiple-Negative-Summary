@@ -21,8 +21,8 @@
 	- prompt: Data aumgentation(varing-level negative data) prompt
 
 - data
-- # CNNDM data source: https://huggingface.co/datasets/cnn_dailymail - (Subset 3.0.0)
-	- seed 
+	- seed
+		- # CNNDM data source: https://huggingface.co/datasets/cnn_dailymail - (Subset 3.0.0)
 		- train_10000
 			: 10,000 sampled train data from original(Hugging Face) train data
 			: {article, highlights, id}
