@@ -17,6 +17,9 @@
 	- result sorting
 		: Get sorted data by score
 
+	- run_summarization
+   		: Bart fine-tuning
+
 - data
 	- seed
 		- CNNDM data source: https://huggingface.co/datasets/cnn_dailymail - (Subset 3.0.0)
