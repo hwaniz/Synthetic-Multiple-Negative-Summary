@@ -17,8 +17,6 @@
 	- result sorting
 		: Get sorted data by score
 
-	- run_summarization
-   		: BART fine-tuning
 
 -  data
 	- https://drive.google.com/drive/folders/1BycNzCiyVFT-bgdIYWQEwuFjKTx5m_tB?usp=drive_link
